@@ -25,6 +25,7 @@
 ├── notebooks/          # Jupyter Notebooks для исследования и анализа данных
 ├── requirements.txt    # Список Python-зависимостей
 └── README.md           # Описание проекта и инструкции
+```
 
 ---
 
